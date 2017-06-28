@@ -1,0 +1,9 @@
+{
+  "name":"jreinke/magento-stock-movement",
+  "type":"magento-module",
+  "homepage":"https://github.com/jreinke/magento-stock-movements",
+  "description":"Saves stock movements in a new tab on the product modification page",
+  "require":{
+    "magento-hackathon/magento-composer-installer":"*"
+  }
+}
